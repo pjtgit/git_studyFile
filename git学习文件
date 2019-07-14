@@ -9,6 +9,10 @@
     2017-06-06, V1.0.0, firmware for GD32F3x0
 */
 
+//第一次修改
+
+
+
 #include "gd32f3x0.h"
 #include "systick.h"
 #include <stdio.h>
